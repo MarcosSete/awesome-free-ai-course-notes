@@ -10,7 +10,7 @@
 
 - [ ] The material is **written prose notes** (reads like a textbook chapter), not just slides or video.
 - [ ] It's official (published by the professor, course, or department) and permanently free — no login required.
-- [ ] The link points to the primary source, not a mirror or note-sharing site (Studocu, Coursehero, Scribd, etc.).
+- [ ] The link points to the primary source, not a mirror or note-sharing site (Studocu, Course Hero, Scribd, etc.).
 - [ ] I added exactly one row, in the correct country section, alphabetical by university.
 - [ ] This PR adds only this one entry (no unrelated changes).
 
