@@ -45,6 +45,12 @@ Because of this strict bar, most universities — even excellent ones — simply
 |---|---|---|---|
 | LMU Munich | I2ML – Introduction to Machine Learning | SLDS group | [slds-lmu.github.io/i2ml](https://slds-lmu.github.io/i2ml/) |
 
+## 🇸🇬 Singapore
+
+| University | Course | Instructor(s) | Notes |
+|---|---|---|---|
+| National University of Singapore (NUS) | Joint Lecture Notes (CS4248 Introduction to LLMs, CS5246 Text Mining, CS5228 Data Mining) | Christian von der Weth | [https://github.com/chrisvdweth/selene](https://github.com/chrisvdweth/selene) |
+
 ## 🇰🇷 South Korea
 
 | University | Course | Instructor(s) | Notes |
